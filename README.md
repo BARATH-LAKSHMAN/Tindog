@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog a responsive website made using bootstrap.
